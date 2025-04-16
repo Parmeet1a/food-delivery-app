@@ -1,0 +1,16 @@
+# Ignore node_modules in all folders
+**/node_modules/
+**/dist/
+**/build/
+
+# Logs
+*.log
+
+# dotenv env files
+.env
+.env.local
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
